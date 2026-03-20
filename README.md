@@ -21,4 +21,4 @@ This project showcases a beautiful layout for travel websites with a focus on si
 1. Clone the repository  
 2. Open the live demo from the link below
 
-    https://github.com/your-username/travel-landing-page.git
+    https://mayaremadd.github.io/Travel-Landing-Page/
